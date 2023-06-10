@@ -1,1 +1,1 @@
-?theme=dark
+`gruvbox_light` ![gruvbox_light][gruvbox_light]
